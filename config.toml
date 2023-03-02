@@ -1,0 +1,13 @@
+[zabbix]
+address = "193.150.102.91"
+port = 10051
+host = "JK_BMS"
+item = "jk.info"
+send_timeout = 5
+
+[device]
+mac_address = "20:22:08:25:02:31"
+
+[bluetooth]
+scan_duration = 5
+
